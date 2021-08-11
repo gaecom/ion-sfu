@@ -21,7 +21,7 @@ require (
 	github.com/pion/sdp/v3 v3.0.4
 	github.com/pion/transport v0.12.3
 	github.com/pion/turn/v2 v2.0.5
-	github.com/pion/webrtc/v3 v3.1.0-beta.2.0.20210808020610-5253475ec730
+	github.com/pion/webrtc/v3 v3.1.0-beta.3
 	github.com/prometheus/client_golang v1.9.0
 	github.com/rs/cors v1.7.0 // indirect
 	github.com/rs/zerolog v1.23.0
